@@ -2,7 +2,7 @@ This repo holds the R code and documentation for the Getting and Cleaning Data c
 
 The dataset is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-## Files
+# Files
 
 `CodeBook.md` describes the variables, data, and data transformations to tidy the dataset.
 
