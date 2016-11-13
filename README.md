@@ -1,7 +1,4 @@
-Getting and Cleaning Data - Course Project
-==========================================
-
-This repository hosts the R code and documentation files for the Getting and Cleaning Data course.
+This repo holds the R code and documentation for the Getting and Cleaning Data course.
 
 The dataset is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
